@@ -5,4 +5,5 @@ benpatterson/meta-stuff:feature-branch --> benpatterson/meta-stuff:master
 
 Expected CI behavior:
 1 build to run when PR is opened (on benpatterson/meta-stuff:feature-branch)
+1 build to run when I add this commit afer the PR had been opened (on benpatterson/meta-stuff:feature-branch)
 1 build to run once PR is merged (on benpatterson/meta-stuff:master)
