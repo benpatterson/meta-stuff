@@ -1,0 +1,8 @@
+This is a file from the fork clytwynec/meta-stuff, created on the feature branch.
+
+PR to be made:
+clytwynec/meta-stuff:feature --> benpatterson/meta-stuff:feature
+
+Expected CI behavior:
+1 build to run when PR is opened (on clytwynec/meta-stuff:feature)
+0 builds to run once PR is merged
