@@ -1,0 +1,8 @@
+This is a file created on the feature-branch branch.
+
+PR to be made:
+benpatterson/meta-stuff:feature-branch --> benpatterson/meta-stuff:master
+
+Expected CI behavior:
+1 build to run when PR is opened (on benpatterson/meta-stuff:feature-branch)
+1 build to run once PR is merged (on benpatterson/meta-stuff:master)
