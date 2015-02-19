@@ -10,6 +10,7 @@ deploy:
       bucket: $BUCKET
       skip_cleanup: true
       local_dir: $TRAVIS_BUILD_DIR/build
+      upload_dir: edx-analytics-dashboard
       acl: public_read
       on:
         branch: master
