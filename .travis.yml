@@ -1,0 +1,16 @@
+language: python
+python: "2.7"
+script:
+    - mkdir build
+    - echo "artifact here" > build/here.log
+deploy:
+    - provider: s3
+      access_key_id: $S3_KEY
+      secret_access_key: $SECRET_KEY
+      bucket: $BUCKET
+      skip_cleanup: true
+      local_dir: $TRAVIS_BUILD_DIR/build
+      acl: public_read
+      on:
+        branch: master
+# comments here
