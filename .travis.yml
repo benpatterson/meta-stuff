@@ -3,6 +3,9 @@ python: "2.7"
 script:
     - mkdir build
     - echo "artifact here" > build/here.log
+branches:
+    only:
+      - master
 deploy:
     - provider: s3
       access_key_id: $S3_KEY
