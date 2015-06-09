@@ -6,3 +6,5 @@ clytwynec/meta-stuff:feature --> benpatterson/meta-stuff:feature
 Expected CI behavior:
 1 build to run when PR is opened (on clytwynec/meta-stuff:feature)
 0 builds to run once PR is merged
+
+test retesting on jenkins with trigger phrase
