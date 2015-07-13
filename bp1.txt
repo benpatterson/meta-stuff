@@ -1,8 +1,0 @@
-This is a file created on the sub-feature-branch branch.
-
-PR to be made:
-benpatterson/meta-stuff:sub-feature-branch --> benpatterson/meta-stuff:feature-branch
-
-Expected CI behavior:
-1 build to run when PR is opened (on benpatterson/meta-stuff:sub-feature-branch)
-0 builds to run once PR is merged
