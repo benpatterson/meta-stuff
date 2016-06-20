@@ -1,1 +1,2 @@
-The goal is to trigger Bok Choy through the pull request.`
+The goal is to trigger Bok Choy through the pull request. Done
+The new goal is to find why the build-flow file can't be accessed.
