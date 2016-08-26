@@ -6,3 +6,5 @@ clytwynec/meta-stuff:master --> benpatterson/meta-stuff:master
 Expected CI behavior:
 1 build to run when PR is opened (on clytwynec/meta-stuff:master)
 1 build to run once PR is merged (on benpatterson/meta-stuff:master)
+
+Now test this
