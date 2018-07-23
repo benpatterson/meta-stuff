@@ -1,1 +1,16 @@
 testing 1.2.3.4
+total 88
+drwxr-xr-x  14 alanholsberg  staff  448 Jul 23 15:55 .
+drwxr-xr-x   3 alanholsberg  staff   96 Jul 23 15:30 ..
+drwxr-xr-x  15 alanholsberg  staff  480 Jul 23 16:09 .git
+-rw-r--r--   1 alanholsberg  staff  415 Jul 23 15:54 .travis.yml
+-rw-r--r--   1 alanholsberg  staff   61 Jul 23 15:30 README.md
+-rw-r--r--   1 alanholsberg  staff   16 Jul 23 16:05 anh_supportfun.txt
+-rw-r--r--   1 alanholsberg  staff  422 Jul 23 15:54 bp2.txt
+-rw-r--r--   1 alanholsberg  staff  226 Jul 23 15:54 build-flow.groovy
+-rw-r--r--   1 alanholsberg  staff  318 Jul 23 15:54 cl1.txt
+-rw-r--r--   1 alanholsberg  staff  287 Jul 23 15:54 cl2.txt
+-rw-r--r--   1 alanholsberg  staff   11 Jul 23 15:54 here.txt
+-rw-r--r--   1 alanholsberg  staff    7 Jul 23 15:54 master.txt
+-rw-r--r--   1 alanholsberg  staff   55 Jul 23 15:30 tddium.yml
+-rw-r--r--   1 alanholsberg  staff    5 Jul 23 15:30 yeah.txt
