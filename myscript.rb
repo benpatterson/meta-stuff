@@ -4,7 +4,8 @@ my_list = [
 	'apple',
 	'banana',
 	'carrot',
-	'deli meat'
+	'deli meat',
+	'eggplantz'
 ]
 
 my_list.each do |item|
